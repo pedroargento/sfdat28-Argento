@@ -7,7 +7,7 @@
 
   * Unsupervised machine learning to cluster and segment scrips. Can we find new movie genres from it? Given a new scrip, is it possible to associate with an existing one or with combination of them?
 
-  * Will a new scrip be indicated to an official award?
+  * Will a new scrip be nominated to an official award (eg. Oscars)?
 
 2. Public construction in Brazil: Data from: [Governamental Data](dados.gov.br)
  
